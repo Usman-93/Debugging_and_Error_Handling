@@ -6,6 +6,7 @@ namespace Tutorial_2.CallStack
 {
     public class Methods
     {
+        // Comment added
         public static void Method1()
         {
             Console.WriteLine("Start Method: Method 1");
